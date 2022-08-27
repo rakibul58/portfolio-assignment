@@ -17,6 +17,7 @@ h1{
 
 .flexible-part{
     display: flex;
+    align-items: center;
     padding-bottom: 80px;
 }
 
@@ -62,9 +63,9 @@ h1{
 
 .experiment-item{
     box-shadow: 10px 10px 40px grey;
-    width: 40%;
+    width:50%;
     margin-left: 5%;
-    margin-right: 5%;
+    margin-right: 2%;
     padding: 30px;
     border-radius: 10px;
     
@@ -72,10 +73,12 @@ h1{
 
 #full-dev{
     border-left: 5px solid tomato;
+    height: 250px;
 }
 
 #baby-dev{
     border-left: 5px solid blue;
+    height: 250px;
 }
 
 footer p{
