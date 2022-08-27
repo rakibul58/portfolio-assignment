@@ -13,6 +13,11 @@ h1{
 
 .orange-color{
     color: orange;
+    font-weight: 700;
+}
+
+.card-title.orange-color{
+    font-size: 1.5rem;
 }
 
 .flexible-part{
